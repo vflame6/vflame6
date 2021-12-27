@@ -1,5 +1,3 @@
-![Me when code doesn't work](https://github.com/MaxRadaev/markdowns/blob/543fcae5e38b6aed049e73fd3fdd8fbfab26921d/avatar.png)
-
 - 👋 Hi, I’m @MaxRadaev
 - 📐 I'm studying in the The Bonch-Bruevich Saint Petersburg State University of Telecommunications, Russia :ru:
 - 👀 I’m interested in Information Security
