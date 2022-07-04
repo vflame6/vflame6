@@ -1,6 +1,6 @@
 # Hi, I'm flame👋
 
-🏁I'm 18 years old. I want to become a pentester. Playing CTFs and HackTheBox machines.
+🏁I'm 18 years old. I want to become a pentester. Studying, playing CTFs and HackTheBox machines.
 
 ## WHOAMI 🤙
 
