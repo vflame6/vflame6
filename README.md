@@ -13,8 +13,7 @@
   * [TryHackMe Profile](https://tryhackme.com/p/vflamie) 📕
   * [Stepik Profile](https://stepik.org/users/349814193) 📗
   * [Certificates and achievements](https://github.com/MaxRadaev/Resume) 💪
-  * [Telegram](https://t.me/xv1oa) 📲
-  * Discord: flame#2981 📞
+  * Discord: flame#2981 📲
 
 ## My Stats 🔥
 
