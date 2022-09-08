@@ -4,7 +4,7 @@
 
 ## WHOAMI 🤙
 
-* I am currently in my first year at university for a bachelor's degree (Speciality: Information Security) 📝
+* I am currently in my second year at university for a bachelor's degree (Speciality: Information Security) 📝
 * In my free time I play CTFs, studying on tryhackme.com or doing labs on HackTheBox <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * Love to read tech books 📚
 * Links:
