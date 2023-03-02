@@ -8,9 +8,9 @@ I am currently studying at university for a bachelor's degree (Speciality: Infor
 
 In my free time I play CTFs, studying on tryhackme.com or doing labs on HackTheBox <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Links:
-* [Blog](https://vflame6.github.io/)
-* Discord: flame#2981
+## Blog
+
+I periodically write in my [personal blog](https://vflame6.github.io/) about CTFs, tools and something interesting for me. I hope that material will help somebody. Thank you for giving it your time!
 
 ## GitHub stats
 
