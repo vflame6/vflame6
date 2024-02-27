@@ -19,9 +19,3 @@ I periodically write in my [personal blog](https://vflame6.github.io/) about CTF
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vflame6&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=vflame6)
-
----
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/vflame6"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=vflame6&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</p>
