@@ -1,18 +1,16 @@
 ## Hi, I'm vflame6👋
 
-I'm a student. I want to become a pentester. Studying, playing CTFs and HackTheBox machines.
+I am a cybersecurity student and a penetration tester 👨‍💻. My goal is to become better in pentesting. In my free time I read books, study or do labs on HackTheBox <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-## whoami
+## Blog 📄
 
-I am currently studying at university for a bachelor's degree (Speciality: Information Security)
+I periodically write in my [personal blog](https://vflame6.github.io/) about infosec, CTFs, tools and something interesting for me. I hope that material will help somebody. Thank you for giving it your time!
 
-In my free time I play CTFs, studying on tryhackme.com or doing labs on HackTheBox <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## Telegram Channel 📎
 
-## Blog
+I also periodically write in my [personal Telegram channel](https://t.me/vflame6). Just making small notes and sharing content that I found useful.
 
-I periodically write in my [personal blog](https://vflame6.github.io/) about CTFs, tools and something interesting for me. I hope that material will help somebody. Thank you for giving it your time!
-
-## GitHub stats
+## GitHub Stats 📊
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vflame6&theme=github-dark-blue)](https://git.io/streak-stats)
 
