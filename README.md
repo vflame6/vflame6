@@ -10,10 +10,3 @@ I periodically write in my [personal blog](https://vflame6.github.io/) about inf
 
 I also periodically write in my [personal Telegram channel](https://t.me/vflame6). Just making small notes and sharing content that I found useful.
 
-## GitHub Stats 📊
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vflame6&theme=github-dark-blue)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vflame6&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=vflame6)
