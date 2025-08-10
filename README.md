@@ -1,4 +1,4 @@
-## Hi, I'm vflame6👋
+## Hi, I'm Maksim 'vflame6' Radaev 👋
 
 I am an offensive security enthusiast 👨‍💻. My goal is to become better in offensive security field. In my free time I read books, study or do some research on topics I find interesitng <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
