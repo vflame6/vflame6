@@ -4,7 +4,7 @@ I am an offensive security enthusiast 👨‍💻. My goal is to become better i
 
 ## Blog 📄
 
-I periodically write in my [personal blog](https://vflame6.github.io/) about information security, CTFs, tools and something interesting for me. I hope that material will help somebody. Thank you for giving it your time!
+I periodically write in my [personal blog](https://maksimradaev.com/) about information security, CTFs, tools and something interesting for me. I hope that material will help somebody. Thank you for giving it your time!
 
 ## [RU] Telegram Channel 📎
 
