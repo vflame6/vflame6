@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://t.me/vflame6"><img src="https://img.shields.io/badge/Follow-@vflame6-33a3e1?style=flat&logo=telegram"></a>
+  <a href="https://x.com/MaksimRadaev"><img src="https://img.shields.io/twitter/follow/MaksimRadaev?style=flat&logo=x"></a>
+</p>
+
 ## Hi, I'm Maksim 'vflame6' Radaev 👋
 
 I am a cybersecurity enthusiast working in penetration testing field 👨‍💻. My goal is to become better in offensive security field. In my free time I read books, study or do some research on topics I find interesitng <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
