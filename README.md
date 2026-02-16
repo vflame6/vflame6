@@ -25,6 +25,12 @@ I also periodically write in my [personal Telegram channel](https://t.me/vflame6
 <a href="https://github.com/vflame6#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vflame6&layout=compact&theme=dracula&exclude_repo=vflame6.github.io#gh-dark-mode-only" width="320px" alt="Top-Langs-Dark" /></a>
 </div>
 
+## Support
+
+If you find my research, tools, or content helpful, consider supporting my work. Your support helps me dedicate more time to creating quality content and developing open-source security tools.
+
+[**Support options available here →**](https://maksimradaev.com/support/)
+
 <details>
   <summary>DISCLAIMER</summary>
 
