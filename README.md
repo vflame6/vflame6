@@ -7,19 +7,11 @@
 
 I am a cybersecurity enthusiast working in penetration testing field <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-## Blog 📄
+## Blog and Telegram Channel 📄
 
 I periodically write in my [personal blog](https://maksimradaev.com/) about penetration testing, CTFs, tools and something interesting for me. I hope that material will help somebody. Thank you for giving it your time!
 
-## [RU] Telegram Channel 📎
-
 I also periodically write in my [personal Telegram channel](https://t.me/vflame6) in Russian. Just making small notes and sharing content that I found useful.
-
-## Support
-
-If you find my research, tools, or content helpful, consider supporting my work. Your support helps me dedicate more time to creating quality content and developing open-source security tools.
-
-[**Support options available here →**](https://maksimradaev.com/support/)
 
 <details>
   <summary>DISCLAIMER</summary>
