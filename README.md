@@ -5,7 +5,7 @@
 
 ## Hi, I'm Maksim 'vflame6' Radaev 👋
 
-I am a cybersecurity enthusiast working in penetration testing field 👨‍💻. My goal is to become better in offensive security field. In my free time I read books, study or do some research on topics I find interesitng <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a cybersecurity enthusiast working in penetration testing field <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ## Blog 📄
 
